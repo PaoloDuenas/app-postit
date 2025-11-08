@@ -51,16 +51,14 @@ Join our community of developers creating universal apps.
 
 ## Screenshots
 
-Here are a few screenshots of the app running (you can replace these with your own):
-
 ![Home screen](assets/readme-images/Screenshot_20251107_220949_Expo%20Go.jpg "Home screen")
 
-*Home screen  header and primary action.*
+*Home screen*
 
 ![Notes list](assets/readme-images/Screenshot_20251107_220955_Expo%20Go.jpg "Notes list")
 
-*Notes list  dark cards and add button.*
+*Notes list*
 
 ![Add note modal](assets/readme-images/Screenshot_20251107_221016_Expo%20Go.jpg "Add note modal")
 
-*Add note modal  input and actions.*
+*Add note modal*
