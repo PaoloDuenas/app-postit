@@ -62,12 +62,12 @@ export default AddNoteModal
 const styles = StyleSheet.create({
     modalOverlay: {
       flex: 1,
-      backgroundColor: '#333',
+      backgroundColor: 'rgba(0,0,0,0.6)',
       justifyContent: 'center',
       alignItems:'center'
     },
     modalContent: {
-      backgroundColor: '#fff',
+      backgroundColor: '#1e1e1e',
       padding:20,
       borderRadius: 10,
       width: '80%'
@@ -76,21 +76,25 @@ const styles = StyleSheet.create({
       fontWeight:'bold',
       marginBottom:10,
       textAlign:'center',
-      fontSize:20
+      fontSize:20,
+      color: '#fff'
     },
     input: {
       borderWidth:1,
       borderRadius:8,
       padding:10,
       fontSize:16,
-      marginBottom:15
+      marginBottom:15,
+      borderColor: '#333',
+      backgroundColor: '#2a2a2a',
+      color: '#fff'
     },
     modalButtons: {
       flexDirection: 'row',
       justifyContent: 'space-between'
     },
     cancelButton: {
-      backgroundColor: '#ccc',
+      backgroundColor: '#2a2a2a',
       padding: 10,
       borderRadius:5,
       flex:1,
@@ -99,10 +103,10 @@ const styles = StyleSheet.create({
     },
     cancelButtonText: {
       fontSize:16,
-      color:'#00000000'
+      color:'#fff'
     },
      saveButton: {
-      backgroundColor: '#007bff',
+      backgroundColor: '#1f6feb',
       padding: 10,
       borderRadius:5,
       flex:1,

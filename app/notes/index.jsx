@@ -60,14 +60,14 @@ const styles = StyleSheet.create({
     container:{
       flex:1,
       padding:20,
-      backgroundColor: '#fff'
+      backgroundColor: '#121212'
     },
     addButton: {
       position: 'absolute',
       bottom: 50,
       left: 20,
       right:20,
-      backgroundColor: '#007bff',
+      backgroundColor: '#1f6feb',
       padding:15,
       borderRadius:5,
       alignItems:'center'

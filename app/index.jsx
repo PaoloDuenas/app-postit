@@ -8,9 +8,9 @@ const HomeScreen = () => {
 
   return (
     <View style={styles.container} >
-      <Image source={PostitImage} style={styles.image} />
-      <Text style={styles.titulo}>Bienvenidos a Nuestra Super Aplicación</Text>
-      <Text style={styles.subtitulo}>Captura tus notas en cualquie lugar y en cualquier momento</Text>
+  <Image source={PostitImage} style={styles.image} />
+  <Text style={styles.titulo}>Bienvenidos a Nuestra Super Aplicación</Text>
+  <Text style={styles.subtitulo}>Captura tus notas en cualquie lugar y en cualquier momento</Text>
       <TouchableOpacity
         style={styles.button}
         onPress={()=>router.push('./notes')}
@@ -23,11 +23,11 @@ const HomeScreen = () => {
 
 const styles = StyleSheet.create({
   container: {
-      flex: 1,
-      justifyContent: "center",
-      alignItems: "center",
-      padding:20,
-      backgroundColor: '#f8f9fa'
+    flex: 1,
+    justifyContent: "center",
+    alignItems: "center",
+    padding:20,
+    backgroundColor: '#121212'
   },
   image: {
     width: 100,
@@ -39,17 +39,17 @@ const styles = StyleSheet.create({
     fontSize:28,
     fontWeight: 'bold',
     marginBottom:10,
-    color: '#333',
+    color: '#fff',
     textAlign: 'center'
   },
   subtitulo: {
     fontSize:16,
-    color: '#666',
+    color: '#ccc',
     textAlign: 'center',
     marginBottom:20
   },
   button:{
-    backgroundColor: '#007bff',
+    backgroundColor: '#1f6feb',
     paddingVertical: 12,
     paddingHorizontal: 25,
     borderRadius:8,

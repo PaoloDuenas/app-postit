@@ -12,13 +12,14 @@ const styles = StyleSheet.create({
     noteItem: {
       flexDirection: 'row',
       justifyContent: 'space-between',
-      backgroundColor: '#c4c2c2ff',
+      backgroundColor: '#1e1e1e',
       padding:15,
       borderRadius:5,
       marginVertical:5
     },
     noteText: {
-      fontSize:18
+      fontSize:18,
+      color: '#fff'
     }
 })
 
