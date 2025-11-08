@@ -48,3 +48,19 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+## Screenshots
+
+Here are a few screenshots of the app running (you can replace these with your own):
+
+![Home screen](assets/readme-images/Screenshot_20251107_220949_Expo Go.jpg "Home screen")
+
+*Home screen — header and primary action.*
+
+![Notes list](assets/readme-images/Screenshot_20251107_220955_Expo Go.jpg "Notes list")
+
+*Notes list — dark cards and add button.*
+
+![Add note modal](assets/readme-images/Screenshot_20251107_221016_Expo Go.jpg "Add note modal")
+
+*Add note modal — input and actions.*
