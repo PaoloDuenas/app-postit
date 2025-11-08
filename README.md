@@ -1,4 +1,4 @@
-# Welcome to your Expo app 👋
+﻿# Welcome to your Expo app 
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
@@ -53,14 +53,14 @@ Join our community of developers creating universal apps.
 
 Here are a few screenshots of the app running (you can replace these with your own):
 
-![Home screen](assets/readme-images/Screenshot_20251107_220949_Expo Go.jpg "Home screen")
+![Home screen](assets/readme-images/Screenshot_20251107_220949_Expo%20Go.jpg "Home screen")
 
-*Home screen — header and primary action.*
+*Home screen  header and primary action.*
 
-![Notes list](assets/readme-images/Screenshot_20251107_220955_Expo Go.jpg "Notes list")
+![Notes list](assets/readme-images/Screenshot_20251107_220955_Expo%20Go.jpg "Notes list")
 
-*Notes list — dark cards and add button.*
+*Notes list  dark cards and add button.*
 
-![Add note modal](assets/readme-images/Screenshot_20251107_221016_Expo Go.jpg "Add note modal")
+![Add note modal](assets/readme-images/Screenshot_20251107_221016_Expo%20Go.jpg "Add note modal")
 
-*Add note modal — input and actions.*
+*Add note modal  input and actions.*
